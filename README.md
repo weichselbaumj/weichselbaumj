@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Johann Weichselbaum
+- 👀 I’m interested in visual computing, music production, all kind of FOSS activities.
+- 🌱 I’m currently learning creating audio plugins with JUCE.
